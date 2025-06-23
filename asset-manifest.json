@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/inventory/static/js/main.62227dab.js",
+    "main.js": "/inventory/static/js/main.363aba8b.js",
     "index.html": "/inventory/index.html",
-    "main.62227dab.js.map": "/inventory/static/js/main.62227dab.js.map"
+    "main.363aba8b.js.map": "/inventory/static/js/main.363aba8b.js.map"
   },
   "entrypoints": [
-    "static/js/main.62227dab.js"
+    "static/js/main.363aba8b.js"
   ]
 }
