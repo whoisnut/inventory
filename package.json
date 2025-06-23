@@ -1,0 +1,14 @@
+{
+  "name": "inventory-monorepo",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npm run dev",
+    "frontend": "npm --prefix frontend start",
+    "backend": "npm --prefix backend start",
+    "dev": "concurrently \"npm run frontend\" \"npm run backend\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "gh-pages": "^6.3.0"
+  }
+}
